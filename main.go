@@ -85,7 +85,7 @@ func main() {
 		"============================================================\n",
 	) // 启动打印
 	zero.Run(zero.Config{
-		NickName:      []string{"lamitt", "Lamitt", "拉蜜图"},
+		NickName:      []string{"lamitt", "Lamitt", "拉蜜图","椰"},
 		CommandPrefix: "/",
 
 		// SuperUsers 某些功能需要主人权限，可通过以下两种方式修改
